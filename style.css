@@ -2,3 +2,7 @@ body {
   display: flex;
   background-color: #DDDDDD;
 }
+img {
+  width: 70%;
+  height: 100px;
+}
